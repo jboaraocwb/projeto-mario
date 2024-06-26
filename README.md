@@ -13,5 +13,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <h2>Esse projeto foi criado pra Desktop e Mobile </h2>
-
+<br>
+<p>Desktop</p>
 <img src="./img/Desktop.png"/>
