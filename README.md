@@ -17,6 +17,6 @@
 <p>Desktop</p>
 <img src="https://github.com/jboaraocwb/projeto-mario/blob/master/img/Desktop.png?raw=true"/>
 <p>Tablet</p>
-<img src=""/>
+<img src="https://github.com/jboaraocwb/projeto-mario/blob/master/img/Tablet.png?raw=true"/>
 <p>Mobile</p>
 <img src="https://github.com/jboaraocwb/projeto-mario/blob/master/img/mobile.png?raw=true"/>
