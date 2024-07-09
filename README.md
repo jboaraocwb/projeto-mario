@@ -15,6 +15,8 @@
 <h2>Esse projeto foi criado pra Desktop e Mobile </h2>
 <br>
 <p>Desktop</p>
+<img src="https://github.com/jboaraocwb/projeto-mario/blob/master/img/Desktop.png?raw=true"/>
+<p>Tablet</p>
 <img src=""/>
 <p>Mobile</p>
 <img src="https://github.com/jboaraocwb/projeto-mario/blob/master/img/mobile.png?raw=true"/>
